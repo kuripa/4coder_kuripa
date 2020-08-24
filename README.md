@@ -1,2 +1,1 @@
-# 4coder_kuripa
-Personal 4coder setup
+# My personal 4coder setup
